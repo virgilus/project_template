@@ -1,2 +1,6 @@
 def clean_data():
-    return 'Data cleaned!'
+    """
+    Cleans the data.
+    """
+    print("Data cleaned !")
+    return None

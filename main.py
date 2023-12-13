@@ -6,7 +6,7 @@
 from project_template import make_dataset
 from project_template import process_data
 
-if __name__ == 'main':
+if __name__ == '__main__':
 
     make_dataset.download_data()
     make_dataset.rename_files()
